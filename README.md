@@ -25,7 +25,7 @@ J'espèce au fil des années construire des connaissances solides dans ce vaste 
 
 ## Spécialités techniques :
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" width="400" height="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" width="425" height="100" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR123zltkc88XA7Fv_Y4fj945wTdSl7SGIabA&s" width="300" height="100" />
 </p>
 
