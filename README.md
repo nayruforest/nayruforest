@@ -9,8 +9,8 @@ J'espèce au fil des années construire des connaissances solides dans ce vaste 
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
 ## Quelques jeux que j'ai crée : 
-- Flappy Bird (quelques bugs à régler) : https://github.com/SonMaxime/FlappyBirdNodeJS
-- Two Ways (projet NSI 1ère) : https://github.com/SonMaxime/TwoWaysTheGame
+- Flappy Bird (quelques bugs à régler) : https://github.com/nayruforest/FlappyBirdNodeJS
+- Two Ways (projet NSI 1ère) : https://github.com/nayruforest/TwoWaysTheGame
 
 ## 🌍 Languages de programation :
 <p>
@@ -34,11 +34,11 @@ J'espèce au fil des années construire des connaissances solides dans ce vaste 
   
 ## Compteur de visite :
 <p align="left"> 
-  <img src="https://profile-counter.glitch.me/SonMaxime/count.svg" />
+  <img src="https://profile-counter.glitch.me/nayruforest/count.svg" />
 </p>
 
 ## Stats Git :
 
-<img align="left" alt="Mes stats Github" src="https://github-readme-stats.vercel.app/api?username=SonMaxime&show_icons=true&hide_border=true" />
-<img align="left" alt="Mes languages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonmaxime&show_icons=true&theme=tokyonight&layout=compact" />
-<img align="left" alt="Mes stats Github" src="https://github-profile-trophy.vercel.app/?username=SonMaxime&theme=dracula" />
+<img align="left" alt="Mes stats Github" src="https://github-readme-stats.vercel.app/api?username=nayruforest&show_icons=true&hide_border=true" />
+<img align="left" alt="Mes languages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayruforest&show_icons=true&theme=tokyonight&layout=compact" />
+<img align="left" alt="Mes stats Github" src="https://github-profile-trophy.vercel.app/?username=nayruforest&theme=dracula" />
