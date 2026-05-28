@@ -4,7 +4,7 @@ Je suis un jeune développeur/administrateur étudiant. <br/>
 Habitué d'informatique depuis le plus jeune âge, j'ai commencé à programmer des petites choses comme un passe temps au collège, ce passe temps finira par devenir une passion qui me mènera à entrer en Licence de mathématiques/IT et plus tard me spécialiser en ASR auprès de l'école CESI Campus de Reims. 
 J'espèce au fil des années construire des connaissances solides dans ce vaste monde.
 
-- 🔭 Projet personnel : [Portfolio Personel](https://github.com/SonMaxime/Portfolio)
+- 🔭 Projet personnel : [Portfolio Personel](https://nayruforest.github.io/nayruforest/)
 - 📫 Comment me contacter : sonmaxime@proton.me
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
